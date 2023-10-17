@@ -1,0 +1,8 @@
+C:\Users\MEHMET EFE\source\repos\sınav1\sınav1\obj\Debug\sınav1.csproj.AssemblyReference.cache
+C:\Users\MEHMET EFE\source\repos\sınav1\sınav1\obj\Debug\sınav1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MEHMET EFE\source\repos\sınav1\sınav1\obj\Debug\sınav1.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET EFE\source\repos\sınav1\sınav1\bin\Debug\sınav1.exe.config
+C:\Users\MEHMET EFE\source\repos\sınav1\sınav1\bin\Debug\sınav1.exe
+C:\Users\MEHMET EFE\source\repos\sınav1\sınav1\bin\Debug\sınav1.pdb
+C:\Users\MEHMET EFE\source\repos\sınav1\sınav1\obj\Debug\sınav1.exe
+C:\Users\MEHMET EFE\source\repos\sınav1\sınav1\obj\Debug\sınav1.pdb
